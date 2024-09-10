@@ -1,1 +1,1 @@
-# Titantic Survival Analysis
+# Titanic Survival Analysis
